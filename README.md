@@ -6,12 +6,13 @@ Remble is a mental health startup whose vision is to build a truly personalized 
 
 The Remble tech stack is comprised of a collection of microservices:  
 
-* WordPress CMS/LMS backend
-* React PWA
-* FastAPI Python API
-* Native Swift iOS app
-* Cloud-native infrastructure on AWS
+* [WordPress CMS/LMS backend](https://wordpress.org/)
+* [React PWA](https://reactjs.org/)
+* [FastAPI Python API](https://fastapi.tiangolo.com/)
+* [Native Swift iOS app](https://developer.apple.com/swift/)
+* [Cloud-native infrastructure on AWS](https://aws.amazon.com/blogs/opensource/cloud-native-computing/)
 
 ## Follow us
 
 * https://www.linkedin.com/company/remble/
+* https://www.remble.com/
